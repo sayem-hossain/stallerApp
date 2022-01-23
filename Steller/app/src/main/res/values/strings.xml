@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SplashScreen</string>
+    <string name="gps_attendance">GPS Attendance</string>
+    <string name="gps_attendance2">GPS Attendance</string>
+    <string name="press_and_hold_to_report_attendance">Press and hold to report attendance</string>
+    <string name="_8q8g_27qg_chittagong_bangladesh">8Q8G+27QG, Chittagong, Bangladesh</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
